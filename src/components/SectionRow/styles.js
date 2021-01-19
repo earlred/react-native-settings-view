@@ -14,11 +14,11 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    paddingLeft: 15,
+    paddingLeft: 0,
   },
   title: {
     flex: 1,
-    backgroundColor: 'red',
+    backgroundColor: 'gray',
     textAlign: 'left',
     fontSize: 22,
     fontWeight: 'bold',
